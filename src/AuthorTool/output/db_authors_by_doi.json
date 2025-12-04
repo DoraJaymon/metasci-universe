@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A5069892096",
+    "orcid": "https://orcid.org/0000-0002-8517-9411",
+    "display_name": "Massimo Aria",
+    "display_name_alternatives": [
+      "M. Aria",
+      "M. Qasem Aria",
+      "Massimo Aria",
+      "M Aría"
+    ],
+    "works_count": 196,
+    "cited_by_count": 11199,
+    "author_position_in_paper": 1,
+    "author_position_type": "first",
+    "raw_affiliation_string": null,
+    "primary_affiliation": "University of Naples Federico II",
+    "primary_affiliation_country": "IT",
+    "primary_affiliation_ror": "https://ror.org/05290cv24",
+    "primary_affiliation_type": "education",
+    "last_known_institution": null,
+    "last_known_institution_ror": null,
+    "last_known_institution_display_name": null,
+    "last_known_institution_country_code": null,
+    "last_known_institution_type": null,
+    "source_doi": "10.1016/j.joi.2017.08.007",
+    "source_title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+    "data_source": "database"
+  },
+  {
+    "id": "A5049136342",
+    "orcid": "https://orcid.org/0000-0002-7401-8575",
+    "display_name": "Corrado Cuccurullo",
+    "display_name_alternatives": [
+      "Corrado Cuccurullo",
+      "C. Cuccurullo"
+    ],
+    "works_count": 36,
+    "cited_by_count": 8532,
+    "author_position_in_paper": 2,
+    "author_position_type": "last",
+    "raw_affiliation_string": null,
+    "primary_affiliation": "University of Campania \"Luigi Vanvitelli\"",
+    "primary_affiliation_country": "IT",
+    "primary_affiliation_ror": "https://ror.org/02kqnpp86",
+    "primary_affiliation_type": "education",
+    "last_known_institution": null,
+    "last_known_institution_ror": null,
+    "last_known_institution_display_name": null,
+    "last_known_institution_country_code": null,
+    "last_known_institution_type": null,
+    "source_doi": "10.1016/j.joi.2017.08.007",
+    "source_title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+    "data_source": "database"
+  }
+]

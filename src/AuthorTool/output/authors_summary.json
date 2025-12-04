@@ -1,0 +1,20 @@
+[
+  {
+    "position": 1,
+    "display_name": "Massimo Aria",
+    "author_position_type": "first",
+    "is_corresponding": true,
+    "orcid": "https://orcid.org/0000-0002-8517-9411",
+    "openalex_id": "https://openalex.org/A5069892096",
+    "primary_affiliation": "University of Naples Federico II"
+  },
+  {
+    "position": 2,
+    "display_name": "Corrado Cuccurullo",
+    "author_position_type": "last",
+    "is_corresponding": false,
+    "orcid": "https://orcid.org/0000-0002-7401-8575",
+    "openalex_id": "https://openalex.org/A5049136342",
+    "primary_affiliation": "University of Campania \"Luigi Vanvitelli\""
+  }
+]

@@ -1,0 +1,886 @@
+{
+  "annual_production": {
+    "total_papers": 600,
+    "total_years": 7,
+    "year_range": [
+      2018,
+      2024
+    ],
+    "annual_data": [
+      {
+        "year": 2024,
+        "n_papers": 11,
+        "total_citations": 726,
+        "avg_citations": 66.0
+      },
+      {
+        "year": 2023,
+        "n_papers": 32,
+        "total_citations": 2118,
+        "avg_citations": 66.19
+      },
+      {
+        "year": 2022,
+        "n_papers": 76,
+        "total_citations": 5165,
+        "avg_citations": 67.96
+      },
+      {
+        "year": 2021,
+        "n_papers": 100,
+        "total_citations": 8052,
+        "avg_citations": 80.52
+      },
+      {
+        "year": 2020,
+        "n_papers": 136,
+        "total_citations": 11887,
+        "avg_citations": 87.4
+      },
+      {
+        "year": 2019,
+        "n_papers": 132,
+        "total_citations": 13525,
+        "avg_citations": 102.46
+      },
+      {
+        "year": 2018,
+        "n_papers": 113,
+        "total_citations": 10420,
+        "avg_citations": 92.21
+      }
+    ]
+  },
+  "most_productive_authors": {
+    "total_authors": 2448,
+    "authors": [
+      {
+        "id": "A5112446481",
+        "name": "Ramit Sawhney",
+        "n_papers": 3,
+        "total_citations": 215,
+        "avg_citations": 71.67,
+        "h_index": 3
+      },
+      {
+        "id": "A5079357056",
+        "name": "Rajiv Ratn Shah",
+        "n_papers": 3,
+        "total_citations": 215,
+        "avg_citations": 71.67,
+        "h_index": 3
+      },
+      {
+        "id": "A5026240921",
+        "name": "John Bistline",
+        "n_papers": 3,
+        "total_citations": 148,
+        "avg_citations": 49.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5045318522",
+        "name": "Yannis Dafermos",
+        "n_papers": 2,
+        "total_citations": 719,
+        "avg_citations": 359.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5038730429",
+        "name": "Maria Nikolaidi",
+        "n_papers": 2,
+        "total_citations": 719,
+        "avg_citations": 359.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5077810443",
+        "name": "Toan Luu Duc Huynh",
+        "n_papers": 2,
+        "total_citations": 619,
+        "avg_citations": 309.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5062119084",
+        "name": "David W. Macdonald",
+        "n_papers": 2,
+        "total_citations": 338,
+        "avg_citations": 169.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5035153376",
+        "name": "Yu Hao",
+        "n_papers": 2,
+        "total_citations": 313,
+        "avg_citations": 156.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5048474264",
+        "name": "Michael W. Beck",
+        "n_papers": 2,
+        "total_citations": 312,
+        "avg_citations": 156.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5073317351",
+        "name": "Fatima Akhtar",
+        "n_papers": 2,
+        "total_citations": 232,
+        "avg_citations": 116.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5034332132",
+        "name": "Niladri Das",
+        "n_papers": 2,
+        "total_citations": 232,
+        "avg_citations": 116.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5060331758",
+        "name": "Martin A. Green",
+        "n_papers": 2,
+        "total_citations": 245,
+        "avg_citations": 122.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5025786277",
+        "name": "Tatiana Filatova",
+        "n_papers": 2,
+        "total_citations": 218,
+        "avg_citations": 109.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5010285399",
+        "name": "Brian M. Lucey",
+        "n_papers": 2,
+        "total_citations": 197,
+        "avg_citations": 98.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5064740701",
+        "name": "Lei Tong",
+        "n_papers": 2,
+        "total_citations": 196,
+        "avg_citations": 98.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5019311301",
+        "name": "Narayanage Jayantha Dewasiri",
+        "n_papers": 2,
+        "total_citations": 219,
+        "avg_citations": 109.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5019698053",
+        "name": "Weerakoon Banda Yatiwelle Koralalage",
+        "n_papers": 2,
+        "total_citations": 219,
+        "avg_citations": 109.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5030014546",
+        "name": "A.A. Azeez",
+        "n_papers": 2,
+        "total_citations": 219,
+        "avg_citations": 109.5,
+        "h_index": 2
+      },
+      {
+        "id": "A5038613570",
+        "name": "Alexandros Nikitas",
+        "n_papers": 2,
+        "total_citations": 216,
+        "avg_citations": 108.0,
+        "h_index": 2
+      },
+      {
+        "id": "A5100771544",
+        "name": "Hanqin Tian",
+        "n_papers": 2,
+        "total_citations": 207,
+        "avg_citations": 103.5,
+        "h_index": 2
+      }
+    ]
+  },
+  "most_cited_papers": {
+    "total_papers": 600,
+    "total_citations": 51893,
+    "avg_citations": 86.49,
+    "papers": [
+      {
+        "rank": 1,
+        "id": "W3046743374",
+        "title": "Dampak Pandemi COVID-19 terhadap Perekonomian Indonesia",
+        "authors": "Dito Aditia Darma Nasution; Erlina Erlina; Iskandar Muda",
+        "year": 2020,
+        "source": "Jurnal Benefita",
+        "cited_by_count": 623,
+        "doi": "https://doi.org/10.22216/jbe.v5i2.5313"
+      },
+      {
+        "rank": 2,
+        "id": "W2754240787",
+        "title": "Climate Change, Financial Stability and Monetary Policy",
+        "authors": "Yannis Dafermos; Maria Nikolaidi; Giorgos Galanis",
+        "year": 2018,
+        "source": "Ecological Economics",
+        "cited_by_count": 616,
+        "doi": "https://doi.org/10.1016/j.ecolecon.2018.05.011"
+      },
+      {
+        "rank": 3,
+        "id": "W2911848716",
+        "title": "Big data analytics and firm performance: Findings from a mixed-method approach",
+        "authors": "Patrick Mikalef; Maria Boura; George Lekakos; John Krogstie",
+        "year": 2019,
+        "source": "Journal of Business Research",
+        "cited_by_count": 604,
+        "doi": "https://doi.org/10.1016/j.jbusres.2019.01.044"
+      },
+      {
+        "rank": 4,
+        "id": "W2942223364",
+        "title": "Role of financial development, economic growth &amp; foreign direct investment in driving climate change: A case of emerging ASEAN",
+        "authors": "Muhammad Ali Nasir; Toan Luu Duc Huynh; Huong Thi Xuan Tram",
+        "year": 2019,
+        "source": "Journal of Environmental Management",
+        "cited_by_count": 554,
+        "doi": "https://doi.org/10.1016/j.jenvman.2019.03.112"
+      },
+      {
+        "rank": 5,
+        "id": "W2793981605",
+        "title": "Techno-economic evaluation of microalgae harvesting and dewatering systems",
+        "authors": "F. Fasaei; Johannes H. Bitter; P.M. Slegers; A.J.B. van Boxtel",
+        "year": 2018,
+        "source": "Algal Research",
+        "cited_by_count": 546,
+        "doi": "https://doi.org/10.1016/j.algal.2017.11.038"
+      },
+      {
+        "rank": 6,
+        "id": "W2997411915",
+        "title": "Small and Medium-Sized Enterprises (SMEs): The Engine of Economic Growth through Investments and Innovation",
+        "authors": "Ștefan Cristian Gherghina; Mihai Alexandru Botezatu; Alexandra Hosszu; Liliana Nicoleta Simionescu",
+        "year": 2020,
+        "source": "Sustainability",
+        "cited_by_count": 455,
+        "doi": "https://doi.org/10.3390/su12010347"
+      },
+      {
+        "rank": 7,
+        "id": "W2792594524",
+        "title": "Knowledge management processes and sustainable competitive advantage: An empirical examination in private universities",
+        "authors": "Omar Rabeea Mahdi; Islam A. Nassar; Mahmoud Khalid Almsafir",
+        "year": 2018,
+        "source": "Journal of Business Research",
+        "cited_by_count": 394,
+        "doi": "https://doi.org/10.1016/j.jbusres.2018.02.013"
+      },
+      {
+        "rank": 8,
+        "id": "W3027975282",
+        "title": "Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery",
+        "authors": "Francesco Gentile; Vibudh Agrawal; Michael Hsing; Anh‐Tien Ton; Fuqiang Ban et al.",
+        "year": 2020,
+        "source": "ACS Central Science",
+        "cited_by_count": 377,
+        "doi": "https://doi.org/10.1021/acscentsci.0c00229"
+      },
+      {
+        "rank": 9,
+        "id": "W4200196972",
+        "title": "Corporate transformation toward Industry 4.0 and financial performance: The influence of environmental, social, and governance (ESG)",
+        "authors": "Fadi Alkaraan; Khaldoon Albitar; Khaled Hussainey; V. G. Venkatesh",
+        "year": 2021,
+        "source": "Technological Forecasting and Social Change",
+        "cited_by_count": 353,
+        "doi": "https://doi.org/10.1016/j.techfore.2021.121423"
+      },
+      {
+        "rank": 10,
+        "id": "W3126294703",
+        "title": "Industry 4.0, cleaner production and circular economy: An integrative framework for evaluating ethical and sustainable business performance of manufacturing organizations",
+        "authors": "Himanshu Gupta; Ashwani Kumar; Pratibha Wasan",
+        "year": 2021,
+        "source": "Journal of Cleaner Production",
+        "cited_by_count": 331,
+        "doi": "https://doi.org/10.1016/j.jclepro.2021.126253"
+      },
+      {
+        "rank": 11,
+        "id": "W2971333488",
+        "title": "Simple study designs in ecology produce inaccurate estimates of biodiversity responses",
+        "authors": "Alec P. Christie; Tatsuya Amano; P. Martin; Gorm E. Shackelford; Benno I. Simmons et al.",
+        "year": 2019,
+        "source": "Journal of Applied Ecology",
+        "cited_by_count": 330,
+        "doi": "https://doi.org/10.1111/1365-2664.13499"
+      },
+      {
+        "rank": 12,
+        "id": "W2964779650",
+        "title": "Macroeconomics and Market Power: Context, Implications, and Open Questions",
+        "authors": "Chad Syverson",
+        "year": 2019,
+        "source": "The Journal of Economic Perspectives",
+        "cited_by_count": 327,
+        "doi": "https://doi.org/10.1257/jep.33.3.23"
+      },
+      {
+        "rank": 13,
+        "id": "W2977866395",
+        "title": "Plasma Proteome Profiling to detect and avoid sample‐related biases in biomarker studies",
+        "authors": "Philipp E. Geyer; Eugenia Voytik; Peter V. Treit; Sophia Doll; Alisa Kleinhempel et al.",
+        "year": 2019,
+        "source": "EMBO Molecular Medicine",
+        "cited_by_count": 320,
+        "doi": "https://doi.org/10.15252/emmm.201910427"
+      },
+      {
+        "rank": 14,
+        "id": "W4364320763",
+        "title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
+        "authors": "Alejandro Lopez-Lira; Yuehua Tang",
+        "year": 2023,
+        "source": "SSRN Electronic Journal",
+        "cited_by_count": 320,
+        "doi": "https://doi.org/10.2139/ssrn.4412788"
+      },
+      {
+        "rank": 15,
+        "id": "W3104102581",
+        "title": "Students Satisfaction with Online Learning Experiences during the COVID-19 Pandemic",
+        "authors": "Norah Almusharraf; Shabir Hussain Khahro",
+        "year": 2020,
+        "source": "International Journal of Emerging Technologies in Learning (iJET)",
+        "cited_by_count": 313,
+        "doi": "https://doi.org/10.3991/ijet.v15i21.15647"
+      },
+      {
+        "rank": 16,
+        "id": "W3091840902",
+        "title": "Ripple effect in the supply chain network: Forward and backward disruption propagation, network health and firm vulnerability",
+        "authors": "Yuhong Li; Kedong Chen; Stephane Collignon; Dmitry Ivanov",
+        "year": 2020,
+        "source": "European Journal of Operational Research",
+        "cited_by_count": 312,
+        "doi": "https://doi.org/10.1016/j.ejor.2020.09.053"
+      },
+      {
+        "rank": 17,
+        "id": "W2126190492",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": "Bhaven N. Sampat; Heidi Williams",
+        "year": 2019,
+        "source": "American Economic Review",
+        "cited_by_count": 309,
+        "doi": "https://doi.org/10.1257/aer.20151398"
+      },
+      {
+        "rank": 18,
+        "id": "W3216932000",
+        "title": "Towards carbon neutrality: A study on China's long-term low-carbon transition pathways and strategies",
+        "authors": "Jiankun He; Zheng Li; Xiliang Zhang; Hailin Wang; Wenjuan Dong et al.",
+        "year": 2021,
+        "source": "Environmental Science and Ecotechnology",
+        "cited_by_count": 291,
+        "doi": "https://doi.org/10.1016/j.ese.2021.100134"
+      },
+      {
+        "rank": 19,
+        "id": "W2890065063",
+        "title": "Carnivore conservation needs evidence-based livestock protection",
+        "authors": "Lily M. van Eeden; Ann Eklund; Jennifer R. B. Miller; José Vicente López‐Bao; Guillaume Chapron et al.",
+        "year": 2018,
+        "source": "PLoS Biology",
+        "cited_by_count": 285,
+        "doi": "https://doi.org/10.1371/journal.pbio.2005577"
+      },
+      {
+        "rank": 20,
+        "id": "W4205309290",
+        "title": "A survey of fintech research and policy discussion",
+        "authors": "Franklin Allen; Xian Gu; Julapa Jagtiani",
+        "year": 2021,
+        "source": "Spiral (Imperial College London)",
+        "cited_by_count": 272,
+        "doi": "https://doi.org/10.1561/114.00000007"
+      }
+    ]
+  },
+  "most_relevant_sources": {
+    "total_sources": 368,
+    "sources": [
+      {
+        "id": "S58516903",
+        "name": "Journal of Cleaner Production",
+        "type": "journal",
+        "n_papers": 29,
+        "total_citations": 2644,
+        "avg_citations": 91.17,
+        "h_index": 29
+      },
+      {
+        "id": "S10134376",
+        "name": "Sustainability",
+        "type": "journal",
+        "n_papers": 21,
+        "total_citations": 1809,
+        "avg_citations": 86.14,
+        "h_index": 21
+      },
+      {
+        "id": "S109565702",
+        "name": "Applied Energy",
+        "type": "journal",
+        "n_papers": 15,
+        "total_citations": 1355,
+        "avg_citations": 90.33,
+        "h_index": 15
+      },
+      {
+        "id": "S175056054",
+        "name": "Energy Policy",
+        "type": "journal",
+        "n_papers": 9,
+        "total_citations": 968,
+        "avg_citations": 107.56,
+        "h_index": 9
+      },
+      {
+        "id": "S68497187",
+        "name": "Renewable and Sustainable Energy Reviews",
+        "type": "journal",
+        "n_papers": 9,
+        "total_citations": 760,
+        "avg_citations": 84.44,
+        "h_index": 9
+      },
+      {
+        "id": "S94499970",
+        "name": "Energy Economics",
+        "type": "journal",
+        "n_papers": 8,
+        "total_citations": 751,
+        "avg_citations": 93.88,
+        "h_index": 8
+      },
+      {
+        "id": "S2497375143",
+        "name": "Energy",
+        "type": "journal",
+        "n_papers": 8,
+        "total_citations": 524,
+        "avg_citations": 65.5,
+        "h_index": 8
+      },
+      {
+        "id": "S149240962",
+        "name": "Journal of Financial Economics",
+        "type": "journal",
+        "n_papers": 7,
+        "total_citations": 742,
+        "avg_citations": 106.0,
+        "h_index": 7
+      },
+      {
+        "id": "S198098182",
+        "name": "Energies",
+        "type": "journal",
+        "n_papers": 7,
+        "total_citations": 411,
+        "avg_citations": 58.71,
+        "h_index": 7
+      },
+      {
+        "id": "S85457386",
+        "name": "World Development",
+        "type": "journal",
+        "n_papers": 6,
+        "total_citations": 498,
+        "avg_citations": 83.0,
+        "h_index": 6
+      },
+      {
+        "id": "S15239247",
+        "name": "International Journal of Environmental Research and Public Health",
+        "type": "journal",
+        "n_papers": 6,
+        "total_citations": 312,
+        "avg_citations": 52.0,
+        "h_index": 6
+      },
+      {
+        "id": "S93284759",
+        "name": "Journal of Business Research",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 1136,
+        "avg_citations": 227.2,
+        "h_index": 5
+      },
+      {
+        "id": "S44455300",
+        "name": "Journal of Environmental Management",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 777,
+        "avg_citations": 155.4,
+        "h_index": 5
+      },
+      {
+        "id": "S39307421",
+        "name": "Technological Forecasting and Social Change",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 741,
+        "avg_citations": 148.2,
+        "h_index": 5
+      },
+      {
+        "id": "S202381698",
+        "name": "PLoS ONE",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 462,
+        "avg_citations": 92.4,
+        "h_index": 5
+      },
+      {
+        "id": "S86852077",
+        "name": "The Science of The Total Environment",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 330,
+        "avg_citations": 66.0,
+        "h_index": 5
+      },
+      {
+        "id": "S95464858",
+        "name": "Econometrica",
+        "type": "journal",
+        "n_papers": 5,
+        "total_citations": 362,
+        "avg_citations": 72.4,
+        "h_index": 5
+      },
+      {
+        "id": "S4210172589",
+        "name": "SSRN Electronic Journal",
+        "type": "repository",
+        "n_papers": 4,
+        "total_citations": 467,
+        "avg_citations": 116.75,
+        "h_index": 4
+      },
+      {
+        "id": "S2764593084",
+        "name": "Energy Research & Social Science",
+        "type": "journal",
+        "n_papers": 4,
+        "total_citations": 442,
+        "avg_citations": 110.5,
+        "h_index": 4
+      },
+      {
+        "id": "S184816971",
+        "name": "International Journal of Production Economics",
+        "type": "journal",
+        "n_papers": 4,
+        "total_citations": 365,
+        "avg_citations": 91.25,
+        "h_index": 4
+      }
+    ]
+  },
+  "most_frequent_keywords": {
+    "total_topics": 580,
+    "keywords": [
+      {
+        "id": "T10438",
+        "name": "Energy, Environment, Economic Growth",
+        "frequency": 48,
+        "percentage": 8.0,
+        "avg_score": 0.979,
+        "total_citations": 5077,
+        "avg_citations": 105.77
+      },
+      {
+        "id": "T10880",
+        "name": "Environmental Sustainability in Business",
+        "frequency": 36,
+        "percentage": 6.0,
+        "avg_score": 0.987,
+        "total_citations": 3014,
+        "avg_citations": 83.72
+      },
+      {
+        "id": "T10047",
+        "name": "Financial Markets and Investment Strategies",
+        "frequency": 35,
+        "percentage": 5.83,
+        "avg_score": 0.991,
+        "total_citations": 3057,
+        "avg_citations": 87.34
+      },
+      {
+        "id": "T10539",
+        "name": "Sustainable Supply Chain Management",
+        "frequency": 29,
+        "percentage": 4.83,
+        "avg_score": 0.992,
+        "total_citations": 3073,
+        "avg_citations": 105.97
+      },
+      {
+        "id": "T10115",
+        "name": "Corporate Social Responsibility Reporting",
+        "frequency": 29,
+        "percentage": 4.83,
+        "avg_score": 0.991,
+        "total_citations": 1969,
+        "avg_citations": 67.9
+      },
+      {
+        "id": "T10471",
+        "name": "Climate Change Policy and Economics",
+        "frequency": 28,
+        "percentage": 4.67,
+        "avg_score": 0.99,
+        "total_citations": 3672,
+        "avg_citations": 131.14
+      },
+      {
+        "id": "T11336",
+        "name": "Energy and Environment Impacts",
+        "frequency": 26,
+        "percentage": 4.33,
+        "avg_score": 0.99,
+        "total_citations": 2278,
+        "avg_citations": 87.62
+      },
+      {
+        "id": "T10435",
+        "name": "Environmental Impact and Sustainability",
+        "frequency": 25,
+        "percentage": 4.17,
+        "avg_score": 0.987,
+        "total_citations": 2388,
+        "avg_citations": 95.52
+      },
+      {
+        "id": "T11326",
+        "name": "Stock Market Forecasting Methods",
+        "frequency": 23,
+        "percentage": 3.83,
+        "avg_score": 0.993,
+        "total_citations": 2168,
+        "avg_citations": 94.26
+      },
+      {
+        "id": "T10019",
+        "name": "Corporate Finance and Governance",
+        "frequency": 22,
+        "percentage": 3.67,
+        "avg_score": 0.989,
+        "total_citations": 1682,
+        "avg_citations": 76.45
+      },
+      {
+        "id": "T11770",
+        "name": "Fiscal Policy and Economic Growth",
+        "frequency": 20,
+        "percentage": 3.33,
+        "avg_score": 0.951,
+        "total_citations": 2543,
+        "avg_citations": 127.15
+      },
+      {
+        "id": "T10517",
+        "name": "Financial Literacy, Pension, Retirement Analysis",
+        "frequency": 20,
+        "percentage": 3.33,
+        "avg_score": 0.991,
+        "total_citations": 1464,
+        "avg_citations": 73.2
+      },
+      {
+        "id": "T12617",
+        "name": "Energy, Environment, and Transportation Policies",
+        "frequency": 19,
+        "percentage": 3.17,
+        "avg_score": 0.985,
+        "total_citations": 1444,
+        "avg_citations": 76.0
+      },
+      {
+        "id": "T11059",
+        "name": "Market Dynamics and Volatility",
+        "frequency": 17,
+        "percentage": 2.83,
+        "avg_score": 0.986,
+        "total_citations": 2172,
+        "avg_citations": 127.76
+      },
+      {
+        "id": "T11995",
+        "name": "FinTech, Crowdfunding, Digital Finance",
+        "frequency": 17,
+        "percentage": 2.83,
+        "avg_score": 0.976,
+        "total_citations": 1383,
+        "avg_citations": 81.35
+      },
+      {
+        "id": "T10632",
+        "name": "Housing Market and Economics",
+        "frequency": 16,
+        "percentage": 2.67,
+        "avg_score": 0.985,
+        "total_citations": 1277,
+        "avg_citations": 79.81
+      },
+      {
+        "id": "T11007",
+        "name": "Hybrid Renewable Energy Systems",
+        "frequency": 16,
+        "percentage": 2.67,
+        "avg_score": 0.994,
+        "total_citations": 1288,
+        "avg_citations": 80.5
+      },
+      {
+        "id": "T11185",
+        "name": "Integrated Energy Systems Optimization",
+        "frequency": 16,
+        "percentage": 2.67,
+        "avg_score": 0.995,
+        "total_citations": 1172,
+        "avg_citations": 73.25
+      },
+      {
+        "id": "T10298",
+        "name": "Urban Transport and Accessibility",
+        "frequency": 15,
+        "percentage": 2.5,
+        "avg_score": 0.992,
+        "total_citations": 1095,
+        "avg_citations": 73.0
+      },
+      {
+        "id": "T13146",
+        "name": "Sustainable Finance and Green Bonds",
+        "frequency": 14,
+        "percentage": 2.33,
+        "avg_score": 0.99,
+        "total_citations": 1691,
+        "avg_citations": 120.79
+      },
+      {
+        "id": "T11052",
+        "name": "Energy Load and Power Forecasting",
+        "frequency": 14,
+        "percentage": 2.33,
+        "avg_score": 0.971,
+        "total_citations": 964,
+        "avg_citations": 68.86
+      },
+      {
+        "id": "T10068",
+        "name": "Technology Adoption and User Behaviour",
+        "frequency": 13,
+        "percentage": 2.17,
+        "avg_score": 0.993,
+        "total_citations": 846,
+        "avg_citations": 65.08
+      },
+      {
+        "id": "T11903",
+        "name": "Private Equity and Venture Capital",
+        "frequency": 13,
+        "percentage": 2.17,
+        "avg_score": 0.993,
+        "total_citations": 952,
+        "avg_citations": 73.23
+      },
+      {
+        "id": "T10270",
+        "name": "Blockchain Technology Applications and Security",
+        "frequency": 13,
+        "percentage": 2.17,
+        "avg_score": 0.993,
+        "total_citations": 1037,
+        "avg_citations": 79.77
+      },
+      {
+        "id": "T11988",
+        "name": "Sustainable Building Design and Assessment",
+        "frequency": 12,
+        "percentage": 2.0,
+        "avg_score": 0.994,
+        "total_citations": 1273,
+        "avg_citations": 106.08
+      },
+      {
+        "id": "T10127",
+        "name": "Banking stability, regulation, efficiency",
+        "frequency": 12,
+        "percentage": 2.0,
+        "avg_score": 0.996,
+        "total_citations": 1080,
+        "avg_citations": 90.0
+      },
+      {
+        "id": "T10226",
+        "name": "Land Use and Ecosystem Services",
+        "frequency": 12,
+        "percentage": 2.0,
+        "avg_score": 0.992,
+        "total_citations": 890,
+        "avg_citations": 74.17
+      },
+      {
+        "id": "T13744",
+        "name": "Financial Literacy and Behavior",
+        "frequency": 12,
+        "percentage": 2.0,
+        "avg_score": 0.959,
+        "total_citations": 837,
+        "avg_citations": 69.75
+      },
+      {
+        "id": "T10841",
+        "name": "Economic and Environmental Valuation",
+        "frequency": 11,
+        "percentage": 1.83,
+        "avg_score": 0.985,
+        "total_citations": 955,
+        "avg_citations": 86.82
+      },
+      {
+        "id": "T10609",
+        "name": "Digital Marketing and Social Media",
+        "frequency": 11,
+        "percentage": 1.83,
+        "avg_score": 0.99,
+        "total_citations": 710,
+        "avg_citations": 64.55
+      }
+    ]
+  }
+}

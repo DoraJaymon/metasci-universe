@@ -1,0 +1,119 @@
+{
+  "10.1016/j.joi.2017.08.007": [
+    {
+      "id": "A5069892096",
+      "orcid": "https://orcid.org/0000-0002-8517-9411",
+      "display_name": "Massimo Aria",
+      "display_name_alternatives": [
+        "M. Aria",
+        "M. Qasem Aria",
+        "Massimo Aria",
+        "M Aría"
+      ],
+      "works_count": 196,
+      "cited_by_count": 11199,
+      "author_position_in_paper": 1,
+      "author_position_type": "first",
+      "raw_affiliation_string": null,
+      "primary_affiliation": "University of Naples Federico II",
+      "primary_affiliation_country": "IT",
+      "primary_affiliation_ror": "https://ror.org/05290cv24",
+      "primary_affiliation_type": "education",
+      "last_known_institution": null,
+      "last_known_institution_ror": null,
+      "last_known_institution_display_name": null,
+      "last_known_institution_country_code": null,
+      "last_known_institution_type": null,
+      "source_doi": "10.1016/j.joi.2017.08.007",
+      "source_title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+      "data_source": "database"
+    },
+    {
+      "id": "A5049136342",
+      "orcid": "https://orcid.org/0000-0002-7401-8575",
+      "display_name": "Corrado Cuccurullo",
+      "display_name_alternatives": [
+        "Corrado Cuccurullo",
+        "C. Cuccurullo"
+      ],
+      "works_count": 36,
+      "cited_by_count": 8532,
+      "author_position_in_paper": 2,
+      "author_position_type": "last",
+      "raw_affiliation_string": null,
+      "primary_affiliation": "University of Campania \"Luigi Vanvitelli\"",
+      "primary_affiliation_country": "IT",
+      "primary_affiliation_ror": "https://ror.org/02kqnpp86",
+      "primary_affiliation_type": "education",
+      "last_known_institution": null,
+      "last_known_institution_ror": null,
+      "last_known_institution_display_name": null,
+      "last_known_institution_country_code": null,
+      "last_known_institution_type": null,
+      "source_doi": "10.1016/j.joi.2017.08.007",
+      "source_title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+      "data_source": "database"
+    }
+  ],
+  "10.1007/s11192-009-0146-3": [
+    {
+      "id": "A5079208483",
+      "orcid": "https://orcid.org/0000-0001-8448-4521",
+      "display_name": "Nees Jan van Eck",
+      "display_name_alternatives": [
+        "Van Eck",
+        "Nees Jan Van Eck",
+        "N.J. Van Eck",
+        "N. J. van Eck",
+        "Nees Jan Eck",
+        "Nees Jan",
+        "Nees Van Eck",
+        "Nees‐Jan van Eck"
+      ],
+      "works_count": 276,
+      "cited_by_count": 33332,
+      "author_position_in_paper": 1,
+      "author_position_type": "first",
+      "raw_affiliation_string": null,
+      "primary_affiliation": "Leiden University",
+      "primary_affiliation_country": "NL",
+      "primary_affiliation_ror": "https://ror.org/027bh9e22",
+      "primary_affiliation_type": "education",
+      "last_known_institution": null,
+      "last_known_institution_ror": null,
+      "last_known_institution_display_name": null,
+      "last_known_institution_country_code": null,
+      "last_known_institution_type": null,
+      "source_doi": "10.1007/s11192-009-0146-3",
+      "source_title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+      "data_source": "database"
+    },
+    {
+      "id": "A5027467000",
+      "orcid": "https://orcid.org/0000-0001-8249-1752",
+      "display_name": "Ludo Waltman",
+      "display_name_alternatives": [
+        "L. Waltman",
+        "L.R. Waltman",
+        "Ludo Waltman"
+      ],
+      "works_count": 382,
+      "cited_by_count": 38472,
+      "author_position_in_paper": 2,
+      "author_position_type": "last",
+      "raw_affiliation_string": null,
+      "primary_affiliation": "Leiden University",
+      "primary_affiliation_country": "NL",
+      "primary_affiliation_ror": "https://ror.org/027bh9e22",
+      "primary_affiliation_type": "education",
+      "last_known_institution": null,
+      "last_known_institution_ror": null,
+      "last_known_institution_display_name": null,
+      "last_known_institution_country_code": null,
+      "last_known_institution_type": null,
+      "source_doi": "10.1007/s11192-009-0146-3",
+      "source_title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+      "data_source": "database"
+    }
+  ]
+}

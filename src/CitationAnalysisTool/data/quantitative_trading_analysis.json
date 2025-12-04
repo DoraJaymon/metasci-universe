@@ -1,0 +1,499 @@
+{
+  "annual_production": {
+    "total_papers": 600,
+    "total_years": 10,
+    "year_range": [
+      2015,
+      2024
+    ],
+    "annual_data": [
+      {
+        "year": 2024,
+        "n_papers": 4,
+        "total_citations": 662,
+        "avg_citations": 165.5
+      },
+      {
+        "year": 2023,
+        "n_papers": 21,
+        "total_citations": 2333,
+        "avg_citations": 111.1
+      },
+      {
+        "year": 2022,
+        "n_papers": 34,
+        "total_citations": 3917,
+        "avg_citations": 115.21
+      },
+      {
+        "year": 2021,
+        "n_papers": 70,
+        "total_citations": 8955,
+        "avg_citations": 127.93
+      },
+      {
+        "year": 2020,
+        "n_papers": 76,
+        "total_citations": 11912,
+        "avg_citations": 156.74
+      },
+      {
+        "year": 2019,
+        "n_papers": 89,
+        "total_citations": 11798,
+        "avg_citations": 132.56
+      },
+      {
+        "year": 2018,
+        "n_papers": 78,
+        "total_citations": 12109,
+        "avg_citations": 155.24
+      },
+      {
+        "year": 2017,
+        "n_papers": 88,
+        "total_citations": 13387,
+        "avg_citations": 152.12
+      },
+      {
+        "year": 2016,
+        "n_papers": 68,
+        "total_citations": 9403,
+        "avg_citations": 138.28
+      },
+      {
+        "year": 2015,
+        "n_papers": 72,
+        "total_citations": 11151,
+        "avg_citations": 154.88
+      }
+    ]
+  },
+  "most_productive_authors": {
+    "total_authors": 2881,
+    "authors": [
+      {
+        "id": "A5051902854",
+        "name": "Jianguo Liu",
+        "n_papers": 3,
+        "total_citations": 1125,
+        "avg_citations": 375.0,
+        "h_index": 3
+      },
+      {
+        "id": "A5090734936",
+        "name": "Brett A. Bryan",
+        "n_papers": 3,
+        "total_citations": 636,
+        "avg_citations": 212.0,
+        "h_index": 3
+      },
+      {
+        "id": "A5014797088",
+        "name": "Stephen J. Redding",
+        "n_papers": 3,
+        "total_citations": 745,
+        "avg_citations": 248.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5112597858",
+        "name": "Bojie Fu",
+        "n_papers": 3,
+        "total_citations": 571,
+        "avg_citations": 190.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5083864570",
+        "name": "Wenwu Zhao",
+        "n_papers": 3,
+        "total_citations": 531,
+        "avg_citations": 177.0,
+        "h_index": 3
+      },
+      {
+        "id": "A5074207705",
+        "name": "Francesco Cherubini",
+        "n_papers": 3,
+        "total_citations": 364,
+        "avg_citations": 121.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5043781233",
+        "name": "Weiqiong Zhong",
+        "n_papers": 3,
+        "total_citations": 229,
+        "avg_citations": 76.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5046930068",
+        "name": "Haizhong An",
+        "n_papers": 3,
+        "total_citations": 229,
+        "avg_citations": 76.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5059328615",
+        "name": "Wei Fang",
+        "n_papers": 3,
+        "total_citations": 229,
+        "avg_citations": 76.33,
+        "h_index": 3
+      },
+      {
+        "id": "A5010919401",
+        "name": "Xiangyun Gao",
+        "n_papers": 3,
+        "total_citations": 229,
+        "avg_citations": 76.33,
+        "h_index": 3
+      }
+    ]
+  },
+  "most_cited_papers": {
+    "total_papers": 600,
+    "total_citations": 85627,
+    "avg_citations": 142.71,
+    "papers": [
+      {
+        "rank": 1,
+        "id": "W3196904463",
+        "title": "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation",
+        "authors": "Changqian Yu; Changxin Gao; Jingbo Wang; Gang Yu; Chunhua Shen et al.",
+        "year": 2021,
+        "source": "International Journal of Computer Vision",
+        "cited_by_count": 1396,
+        "doi": "https://doi.org/10.1007/s11263-021-01515-2"
+      },
+      {
+        "rank": 2,
+        "id": "W1550674074",
+        "title": "Collaborative consumption: determinants of satisfaction and the likelihood of using a sharing economy option again",
+        "authors": "Mareike Möhlmann",
+        "year": 2015,
+        "source": "Journal of Consumer Behaviour",
+        "cited_by_count": 1247,
+        "doi": "https://doi.org/10.1002/cb.1512"
+      },
+      {
+        "rank": 3,
+        "id": "W2770269406",
+        "title": "Quantitative microbiome profiling links gut community variation to microbial load",
+        "authors": "Doris Vandeputte; Gunter Kathagen; Kevin D’hoe; Sara Vieira‐Silva; Mireia Vallés-Colomer et al.",
+        "year": 2017,
+        "source": "Nature",
+        "cited_by_count": 1081,
+        "doi": "https://doi.org/10.1038/nature24460"
+      },
+      {
+        "rank": 4,
+        "id": "W2782051023",
+        "title": "MXene molecular sieving membranes for highly efficient gas separation",
+        "authors": "Li Ding; Yanying Wei; Libo Li; Tao Zhang; Haihui Wang et al.",
+        "year": 2018,
+        "source": "Nature Communications",
+        "cited_by_count": 1035,
+        "doi": "https://doi.org/10.1038/s41467-017-02529-6"
+      },
+      {
+        "rank": 5,
+        "id": "W2765587043",
+        "title": "Forest biodiversity, ecosystem functioning and the provision of ecosystem services",
+        "authors": "Eckehard G. Brockerhoff; Luc Barbaro; Bastien Castagneyrol; David I. Forrester; Barry Gardiner et al.",
+        "year": 2017,
+        "source": "Biodiversity and Conservation",
+        "cited_by_count": 1023,
+        "doi": "https://doi.org/10.1007/s10531-017-1453-2"
+      },
+      {
+        "rank": 6,
+        "id": "W2541697905",
+        "title": "Land-use futures in the shared socio-economic pathways",
+        "authors": "Alexander Popp; Katherine Calvin; Shinichiro Fujimori; Peter Havlík; Florian Humpenöder et al.",
+        "year": 2016,
+        "source": "Global Environmental Change",
+        "cited_by_count": 1002,
+        "doi": "https://doi.org/10.1016/j.gloenvcha.2016.10.002"
+      },
+      {
+        "rank": 7,
+        "id": "W3024110832",
+        "title": "An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data",
+        "authors": "Yongze Song; Jinfeng Wang; Yong Ge; Chengdong Xu",
+        "year": 2020,
+        "source": "GIScience & Remote Sensing",
+        "cited_by_count": 971,
+        "doi": "https://doi.org/10.1080/15481603.2020.1760434"
+      },
+      {
+        "rank": 8,
+        "id": "W3000291311",
+        "title": "Performance and Cost Assessment of Machine Learning Interatomic Potentials",
+        "authors": "Yunxing Zuo; Chi Chen; Xiangguo Li; Zhi Deng; Yiming Chen et al.",
+        "year": 2020,
+        "source": "The Journal of Physical Chemistry A",
+        "cited_by_count": 830,
+        "doi": "https://doi.org/10.1021/acs.jpca.9b08723"
+      },
+      {
+        "rank": 9,
+        "id": "W2762794668",
+        "title": "Why Is Pollution from US Manufacturing Declining? The Roles of Environmental Regulation, Productivity, and Trade",
+        "authors": "Joseph Shapiro; Reed Walker",
+        "year": 2018,
+        "source": "American Economic Review",
+        "cited_by_count": 810,
+        "doi": "https://doi.org/10.1257/aer.20151272"
+      },
+      {
+        "rank": 10,
+        "id": "W2891178753",
+        "title": "Nexus approaches to global sustainable development",
+        "authors": "Jianguo Liu; Vanessa Hull; Hubert Charles; David Tilman; Peter H. Gleick et al.",
+        "year": 2018,
+        "source": "Nature Sustainability",
+        "cited_by_count": 749,
+        "doi": "https://doi.org/10.1038/s41893-018-0135-8"
+      }
+    ]
+  },
+  "most_relevant_sources": {
+    "total_sources": 361,
+    "sources": [
+      {
+        "id": "S64187185",
+        "name": "Nature Communications",
+        "type": "journal",
+        "n_papers": 12,
+        "total_citations": 2815,
+        "avg_citations": 234.58,
+        "h_index": 12
+      },
+      {
+        "id": "S194154261",
+        "name": "Ecological Indicators",
+        "type": "journal",
+        "n_papers": 12,
+        "total_citations": 1917,
+        "avg_citations": 159.75,
+        "h_index": 12
+      },
+      {
+        "id": "S58516903",
+        "name": "Journal of Cleaner Production",
+        "type": "journal",
+        "n_papers": 12,
+        "total_citations": 1185,
+        "avg_citations": 98.75,
+        "h_index": 12
+      },
+      {
+        "id": "S23254222",
+        "name": "American Economic Review",
+        "type": "journal",
+        "n_papers": 10,
+        "total_citations": 3659,
+        "avg_citations": 365.9,
+        "h_index": 10
+      },
+      {
+        "id": "S125754415",
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "n_papers": 10,
+        "total_citations": 1903,
+        "avg_citations": 190.3,
+        "h_index": 10
+      },
+      {
+        "id": "S109565702",
+        "name": "Applied Energy",
+        "type": "journal",
+        "n_papers": 10,
+        "total_citations": 964,
+        "avg_citations": 96.4,
+        "h_index": 10
+      },
+      {
+        "id": "S198098467",
+        "name": "Journal of International Economics",
+        "type": "journal",
+        "n_papers": 9,
+        "total_citations": 1481,
+        "avg_citations": 164.56,
+        "h_index": 9
+      },
+      {
+        "id": "S196734849",
+        "name": "Scientific Reports",
+        "type": "journal",
+        "n_papers": 8,
+        "total_citations": 1050,
+        "avg_citations": 131.25,
+        "h_index": 8
+      },
+      {
+        "id": "S86852077",
+        "name": "The Science of The Total Environment",
+        "type": "journal",
+        "n_papers": 8,
+        "total_citations": 1151,
+        "avg_citations": 143.88,
+        "h_index": 8
+      },
+      {
+        "id": "S4210172589",
+        "name": "SSRN Electronic Journal",
+        "type": "repository",
+        "n_papers": 7,
+        "total_citations": 793,
+        "avg_citations": 113.29,
+        "h_index": 7
+      }
+    ]
+  },
+  "most_frequent_keywords": {
+    "total_topics": 690,
+    "keywords": [
+      {
+        "id": "T10435",
+        "name": "Environmental Impact and Sustainability",
+        "frequency": 47,
+        "percentage": 7.83,
+        "avg_score": 0.99,
+        "total_citations": 7119,
+        "avg_citations": 151.47
+      },
+      {
+        "id": "T10226",
+        "name": "Land Use and Ecosystem Services",
+        "frequency": 40,
+        "percentage": 6.67,
+        "avg_score": 0.996,
+        "total_citations": 7062,
+        "avg_citations": 176.55
+      },
+      {
+        "id": "T10128",
+        "name": "Global trade and economics",
+        "frequency": 40,
+        "percentage": 6.67,
+        "avg_score": 0.995,
+        "total_citations": 7316,
+        "avg_citations": 182.9
+      },
+      {
+        "id": "T10471",
+        "name": "Climate Change Policy and Economics",
+        "frequency": 34,
+        "percentage": 5.67,
+        "avg_score": 0.99,
+        "total_citations": 5092,
+        "avg_citations": 149.76
+      },
+      {
+        "id": "T10438",
+        "name": "Energy, Environment, Economic Growth",
+        "frequency": 28,
+        "percentage": 4.67,
+        "avg_score": 0.994,
+        "total_citations": 4282,
+        "avg_citations": 152.93
+      },
+      {
+        "id": "T12724",
+        "name": "Water-Energy-Food Nexus Studies",
+        "frequency": 24,
+        "percentage": 4.0,
+        "avg_score": 0.997,
+        "total_citations": 3487,
+        "avg_citations": 145.29
+      },
+      {
+        "id": "T10319",
+        "name": "Conservation, Biodiversity, and Resource Management",
+        "frequency": 24,
+        "percentage": 4.0,
+        "avg_score": 0.993,
+        "total_citations": 2892,
+        "avg_citations": 120.5
+      },
+      {
+        "id": "T11336",
+        "name": "Energy and Environment Impacts",
+        "frequency": 23,
+        "percentage": 3.83,
+        "avg_score": 0.987,
+        "total_citations": 2743,
+        "avg_citations": 119.26
+      },
+      {
+        "id": "T11770",
+        "name": "Fiscal Policy and Economic Growth",
+        "frequency": 22,
+        "percentage": 3.67,
+        "avg_score": 0.984,
+        "total_citations": 4638,
+        "avg_citations": 210.82
+      },
+      {
+        "id": "T10047",
+        "name": "Financial Markets and Investment Strategies",
+        "frequency": 20,
+        "percentage": 3.33,
+        "avg_score": 0.992,
+        "total_citations": 2239,
+        "avg_citations": 111.95
+      },
+      {
+        "id": "T12617",
+        "name": "Energy, Environment, and Transportation Policies",
+        "frequency": 19,
+        "percentage": 3.17,
+        "avg_score": 0.985,
+        "total_citations": 2768,
+        "avg_citations": 145.68
+      },
+      {
+        "id": "T10969",
+        "name": "Water resources management and optimization",
+        "frequency": 17,
+        "percentage": 2.83,
+        "avg_score": 0.985,
+        "total_citations": 2804,
+        "avg_citations": 164.94
+      },
+      {
+        "id": "T10841",
+        "name": "Economic and Environmental Valuation",
+        "frequency": 17,
+        "percentage": 2.83,
+        "avg_score": 0.989,
+        "total_citations": 2502,
+        "avg_citations": 147.18
+      },
+      {
+        "id": "T11326",
+        "name": "Stock Market Forecasting Methods",
+        "frequency": 15,
+        "percentage": 2.5,
+        "avg_score": 0.998,
+        "total_citations": 2022,
+        "avg_citations": 134.8
+      },
+      {
+        "id": "T10539",
+        "name": "Sustainable Supply Chain Management",
+        "frequency": 14,
+        "percentage": 2.33,
+        "avg_score": 0.996,
+        "total_citations": 1362,
+        "avg_citations": 97.29
+      }
+    ]
+  }
+}

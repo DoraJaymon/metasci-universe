@@ -1,0 +1,26 @@
+[
+  {
+    "id": "https://openalex.org/A5069892096",
+    "display_name": "Massimo Aria",
+    "orcid": "https://orcid.org/0000-0002-8517-9411",
+    "works_count": 227,
+    "cited_by_count": 16124,
+    "author_position_in_paper": 1,
+    "author_position_type": "first",
+    "is_corresponding": true,
+    "primary_affiliation": "University of Naples Federico II",
+    "primary_affiliation_country": "IT"
+  },
+  {
+    "id": "https://openalex.org/A5079208483",
+    "display_name": "Nees Jan van Eck",
+    "orcid": "https://orcid.org/0000-0001-8448-4521",
+    "works_count": 255,
+    "cited_by_count": 35364,
+    "author_position_in_paper": 1,
+    "author_position_type": "first",
+    "is_corresponding": false,
+    "primary_affiliation": "Leiden University",
+    "primary_affiliation_country": "NL"
+  }
+]

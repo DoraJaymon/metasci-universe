@@ -1,0 +1,12 @@
+# 测试输出目录
+
+此目录用于保存 WorksExtractor 工具的测试输出文件。
+
+## 文件命名规范
+
+- 文本报告: `test_results_YYYYMMDD_HHMMSS.txt`
+- JSON数据: `test_data_YYYYMMDD_HHMMSS.json`
+
+## 注意
+
+测试文件会自动生成在此目录，可以定期清理旧文件。

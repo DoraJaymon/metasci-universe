@@ -1,0 +1,395 @@
+{
+  "id": "https://openalex.org/A5049136342",
+  "orcid": "https://orcid.org/0000-0002-7401-8575",
+  "display_name": "Corrado Cuccurullo",
+  "display_name_alternatives": [
+    "Corrado Cuccurullo",
+    "C Cuccurullo",
+    "C. Cuccurullo",
+    "CORRADO CUCCURULLO",
+    "Cuccurullo, Corrado"
+  ],
+  "works_count": 42,
+  "cited_by_count": 12741,
+  "summary_stats": {
+    "2yr_mean_citedness": 4.538461538461538,
+    "h_index": 15,
+    "i10_index": 18
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5049136342",
+    "orcid": "https://orcid.org/0000-0002-7401-8575"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I197809005",
+        "ror": "https://ror.org/02kqnpp86",
+        "display_name": "University of Campania \"Luigi Vanvitelli\"",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I197809005"
+        ]
+      },
+      "years": [
+        2023,
+        2022,
+        2021,
+        2017,
+        2015,
+        2012,
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210129624",
+        "ror": "https://ror.org/02p9ey581",
+        "display_name": "Azienda Ospedaliera Universitaria Università degli Studi della Campania Luigi Vanvitelli",
+        "country_code": "IT",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210129624"
+        ]
+      },
+      "years": [
+        2024,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I71267560",
+        "ror": "https://ror.org/05290cv24",
+        "display_name": "University of Naples Federico II",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I71267560"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12871",
+      "display_name": "Healthcare Quality and Management",
+      "count": 6,
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3605",
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10102",
+      "display_name": "scientometrics and bibliometrics research",
+      "count": 5,
+      "score": 0.9965000152587891,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14477",
+      "display_name": "Management, Economics, and Public Policy",
+      "count": 5,
+      "score": 0.9961000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10804",
+      "display_name": "Health Systems, Economic Evaluations, Quality of Life",
+      "count": 5,
+      "score": 0.982699990272522,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11891",
+      "display_name": "Big Data and Business Intelligence",
+      "count": 3,
+      "score": 0.9944000244140625,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12871",
+      "display_name": "Healthcare Quality and Management",
+      "value": 5.93e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3605",
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11939",
+      "display_name": "Public-Private Partnership Projects",
+      "value": 4.3e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10102",
+      "display_name": "scientometrics and bibliometrics research",
+      "value": 3.98e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10213",
+      "display_name": "Public Policy and Administration Research",
+      "value": 3.06e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14477",
+      "display_name": "Management, Economics, and Public Policy",
+      "value": 2.87e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.08267548680305481
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.131404846906662
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.16404509544372559
+    },
+    {
+      "id": "100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "score": 0.3934482932090759
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2003,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2009,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2010,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2011,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 163
+    },
+    {
+      "year": 2012,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2015,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 95
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 339
+    },
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 10873
+    },
+    {
+      "year": 2020,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 189
+    },
+    {
+      "year": 2022,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 224
+    },
+    {
+      "year": 2023,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2024,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2025,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5049136342",
+  "updated_date": "2025-10-31T23:43:48.951774",
+  "created_date": "2021-05-24",
+  "author_position_in_paper": 2,
+  "original_author_name": "Corrado Cuccurullo",
+  "is_corresponding": false,
+  "author_position_type": "last",
+  "primary_affiliation": "University of Campania \"Luigi Vanvitelli\"",
+  "primary_affiliation_country": "IT",
+  "primary_affiliation_ror": "https://ror.org/02kqnpp86",
+  "affiliation_raw": "",
+  "source_doi": "10.1016/j.joi.2017.08.007",
+  "source_title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+  "query_timestamp": "2025-11-22 22:51:03"
+}

@@ -1,0 +1,171 @@
+{
+  "summary": {
+    "total_papers": 100,
+    "papers_with_lcs": 16,
+    "total_internal_citations": 25,
+    "avg_lcs": 0.25,
+    "max_lcs": 3,
+    "avg_gcs": 529.69,
+    "internal_citation_rate": 0.25
+  },
+  "key_papers": [
+    {
+      "work_id": "W2999075180",
+      "title": "Artificial intelligence in the AEC industry: Scientometric analysis and visualization of research ac",
+      "year": 2020,
+      "gcs": 511,
+      "lcs": 3
+    },
+    {
+      "work_id": "W3023758415",
+      "title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI: a m",
+      "year": 2020,
+      "gcs": 794,
+      "lcs": 3
+    },
+    {
+      "work_id": "W3000049009",
+      "title": "A Bibliometric Analysis on Land Degradation: Current Status, Development, and Future Directions",
+      "year": 2020,
+      "gcs": 393,
+      "lcs": 2
+    },
+    {
+      "work_id": "W3001554335",
+      "title": "Scopus as a curated, high-quality bibliometric data source for academic research in quantitative sci",
+      "year": 2020,
+      "gcs": 1498,
+      "lcs": 2
+    },
+    {
+      "work_id": "W3000895385",
+      "title": "Web of Science as a data source for research on scientific and scholarly activity",
+      "year": 2020,
+      "gcs": 981,
+      "lcs": 2
+    },
+    {
+      "work_id": "W3002924435",
+      "title": "Microsoft Academic Graph: When experts are not enough",
+      "year": 2020,
+      "gcs": 451,
+      "lcs": 2
+    },
+    {
+      "work_id": "W3096690806",
+      "title": "Artificial intelligence in marketing: Topic modeling, scientometric analysis, and research agenda",
+      "year": 2020,
+      "gcs": 446,
+      "lcs": 2
+    },
+    {
+      "work_id": "W3038187379",
+      "title": "Mapping citizen science contributions to the UN sustainable development goals",
+      "year": 2020,
+      "gcs": 369,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3033306974",
+      "title": "The prevalence of symptoms in 24,410 adults infected by the novel coronavirus (SARS-CoV-2; COVID-19)",
+      "year": 2020,
+      "gcs": 677,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3014834477",
+      "title": "Artificial Intelligence, Transport and the Smart City: Definitions and Dimensions of a New Mobility ",
+      "year": 2020,
+      "gcs": 401,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3102147110",
+      "title": "WikiPathways: connecting communities",
+      "year": 2020,
+      "gcs": 900,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3113152109",
+      "title": "Roles of artificial intelligence in construction engineering and management: A critical review and f",
+      "year": 2020,
+      "gcs": 951,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3025370095",
+      "title": "Artificial Intelligence in Health Care: Bibliometric Analysis",
+      "year": 2020,
+      "gcs": 395,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3036495543",
+      "title": "Impacts of epidemic outbreaks on supply chains: mapping a research agenda amid the COVID-19 pandemic",
+      "year": 2020,
+      "gcs": 868,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3042215340",
+      "title": "A bibliometric analysis using VOSviewer of publications on COVID-19",
+      "year": 2020,
+      "gcs": 516,
+      "lcs": 1
+    },
+    {
+      "work_id": "W3123554164",
+      "title": "Large-scale comparison of bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, ",
+      "year": 2021,
+      "gcs": 629,
+      "lcs": 1
+    }
+  ],
+  "network_stats": {
+    "nodes": 16,
+    "edges": 10,
+    "density": 0.041666666666666664,
+    "is_dag": false,
+    "weakly_connected_components": 11,
+    "strongly_connected_components": 16
+  },
+  "temporal_evolution": [
+    {
+      "year": 2020,
+      "n_papers": 45,
+      "avg_lcs": 0.5333333333333333,
+      "avg_gcs": 546.4666666666667,
+      "n_citations_made": 8,
+      "avg_citation_age": 0.0,
+      "max_citation_age": 0.0
+    },
+    {
+      "year": 2021,
+      "n_papers": 22,
+      "avg_lcs": 0.045454545454545456,
+      "avg_gcs": 530.6818181818181,
+      "n_citations_made": 8,
+      "avg_citation_age": 1.0,
+      "max_citation_age": 1.0
+    },
+    {
+      "year": 2022,
+      "n_papers": 24,
+      "avg_lcs": 0.0,
+      "avg_gcs": 533.7916666666666,
+      "n_citations_made": 5,
+      "avg_citation_age": 1.7999999999999545,
+      "max_citation_age": 2.0
+    },
+    {
+      "year": 2023,
+      "n_papers": 9,
+      "avg_lcs": 0.0,
+      "avg_gcs": 432.44444444444446,
+      "n_citations_made": 4,
+      "avg_citation_age": 3.0,
+      "max_citation_age": 3.0
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": "https://openalex.org/A5069892096",
+  "orcid": "https://orcid.org/0000-0002-8517-9411",
+  "display_name": "Massimo Aria",
+  "display_name_alternatives": [
+    "Massimo Aria",
+    "Aria, Massimo",
+    "M Aria",
+    "M Aría",
+    "M. Aria",
+    "M. Qasem Aria",
+    "MASSIMO ARIA",
+    "None Aria, Massimo",
+    "None Massimo Aria"
+  ],
+  "works_count": 227,
+  "cited_by_count": 16124,
+  "summary_stats": {
+    "2yr_mean_citedness": 3.9836065573770494,
+    "h_index": 35,
+    "i10_index": 93
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5069892096",
+    "orcid": "https://orcid.org/0000-0002-8517-9411"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802101240",
+        "ror": "https://ror.org/0483mr804",
+        "display_name": "Carolinas Medical Center",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I1334069289",
+          "https://openalex.org/I2802101240"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210116618",
+        "ror": "https://ror.org/029sbsp57",
+        "display_name": "Badakhshan University",
+        "country_code": "AF",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210116618"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210117450",
+        "ror": "https://ror.org/02jr6tp70",
+        "display_name": "Federico II University Hospital",
+        "country_code": "IT",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210117450",
+          "https://openalex.org/I71267560"
+        ]
+      },
+      "years": [
+        2024,
+        2022,
+        2019,
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210156264",
+        "ror": "https://ror.org/052414247",
+        "display_name": "Centre for Studies in Economics and Finance",
+        "country_code": "IT",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I4210156264"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I71267560",
+        "ror": "https://ror.org/05290cv24",
+        "display_name": "University of Naples Federico II",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I71267560"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2008,
+        2007,
+        2005,
+        2003
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I2802101240",
+      "ror": "https://ror.org/0483mr804",
+      "display_name": "Carolinas Medical Center",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I1334069289"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I71267560",
+      "ror": "https://ror.org/05290cv24",
+      "display_name": "University of Naples Federico II",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": null
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11521",
+      "display_name": "Salivary Gland Disorders and Functions",
+      "count": 40,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11730",
+      "display_name": "Autoimmune Bullous Skin Diseases",
+      "count": 13,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10055",
+      "display_name": "Diverse Aspects of Tourism Research",
+      "count": 12,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11282",
+      "display_name": "Fibromyalgia and Chronic Fatigue Syndrome Research",
+      "count": 12,
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11452",
+      "display_name": "Oral Health Pathology and Treatment",
+      "count": 11,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3506",
+        "display_name": "Periodontics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/35",
+        "display_name": "Dentistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11521",
+      "display_name": "Salivary Gland Disorders and Functions",
+      "value": 0.0003723,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12569",
+      "display_name": "Restless Legs Syndrome Research",
+      "value": 0.0001885,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12026",
+      "display_name": "Explainable Artificial Intelligence (XAI)",
+      "value": 0.0001201,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11627",
+      "display_name": "Autoimmune Neurological Disorders and Treatments",
+      "value": 9.83e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2728",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11214",
+      "display_name": "Human-Animal Interaction Studies",
+      "value": 9.31e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "score": 0.3272157311439514
+    },
+    {
+      "id": "100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "score": 0.3729134798049927
+    },
+    {
+      "id": "100521375",
+      "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+      "display_name": "Competence (human resources)",
+      "score": 0.5808770656585693
+    },
+    {
+      "id": "101276457",
+      "wikidata": "https://www.wikidata.org/wiki/Q5196474",
+      "display_name": "Customer retention",
+      "score": 0.44190865755081177
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1971,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2002,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2003,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2005,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2007,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2008,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2010,
+      "works_count": 11,
+      "oa_works_count": 0,
+      "cited_by_count": 106
+    },
+    {
+      "year": 2011,
+      "works_count": 6,
+      "oa_works_count": 0,
+      "cited_by_count": 380
+    },
+    {
+      "year": 2012,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2013,
+      "works_count": 9,
+      "oa_works_count": 1,
+      "cited_by_count": 112
+    },
+    {
+      "year": 2014,
+      "works_count": 9,
+      "oa_works_count": 2,
+      "cited_by_count": 243
+    },
+    {
+      "year": 2015,
+      "works_count": 12,
+      "oa_works_count": 3,
+      "cited_by_count": 275
+    },
+    {
+      "year": 2016,
+      "works_count": 14,
+      "oa_works_count": 4,
+      "cited_by_count": 624
+    },
+    {
+      "year": 2017,
+      "works_count": 12,
+      "oa_works_count": 3,
+      "cited_by_count": 11259
+    },
+    {
+      "year": 2018,
+      "works_count": 9,
+      "oa_works_count": 3,
+      "cited_by_count": 122
+    },
+    {
+      "year": 2019,
+      "works_count": 12,
+      "oa_works_count": 7,
+      "cited_by_count": 285
+    },
+    {
+      "year": 2020,
+      "works_count": 21,
+      "oa_works_count": 3,
+      "cited_by_count": 738
+    },
+    {
+      "year": 2021,
+      "works_count": 17,
+      "oa_works_count": 12,
+      "cited_by_count": 468
+    },
+    {
+      "year": 2022,
+      "works_count": 17,
+      "oa_works_count": 13,
+      "cited_by_count": 359
+    },
+    {
+      "year": 2023,
+      "works_count": 14,
+      "oa_works_count": 8,
+      "cited_by_count": 142
+    },
+    {
+      "year": 2024,
+      "works_count": 19,
+      "oa_works_count": 12,
+      "cited_by_count": 59
+    },
+    {
+      "year": 2025,
+      "works_count": 25,
+      "oa_works_count": 9,
+      "cited_by_count": 15
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5069892096",
+  "updated_date": "2025-10-31T23:43:48.951774",
+  "created_date": "2016-06-24",
+  "query_timestamp": "2025-11-25 22:15:56",
+  "data_source": "api"
+}

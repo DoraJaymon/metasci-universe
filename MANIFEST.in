@@ -1,0 +1,29 @@
+# 包含文档和配置文件
+include README.md
+include LICENSE
+include CLAUDE.md
+
+# 包含配置文件
+recursive-include config *.py *.yaml *.yml *.json
+
+# 包含文档
+recursive-include docs *.md *.rst *.txt
+
+# 排除不必要的文件
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *$py.class
+global-exclude *.so
+global-exclude .DS_Store
+
+# 排除测试文件
+recursive-exclude */testpy *
+recursive-exclude */test_output *
+recursive-exclude pyNoteBook *
+recursive-exclude data *
+recursive-exclude outputs *
+
+# 排除版本控制和IDE文件
+global-exclude .git*
+global-exclude .vscode
+global-exclude .python-version
