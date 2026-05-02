@@ -19,6 +19,9 @@ global-exclude .DS_Store
 # 排除测试文件
 recursive-exclude */testpy *
 recursive-exclude */test_output *
+recursive-exclude src/*/test_output *
+recursive-exclude src/*/output *
+recursive-exclude src/*/data *
 recursive-exclude pyNoteBook *
 recursive-exclude data *
 recursive-exclude outputs *
