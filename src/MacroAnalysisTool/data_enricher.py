@@ -14,7 +14,7 @@ _project_root = Path(__file__).parent.parent.parent
 if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
 
-from src.AuthorTool import AuthorQuery
+from AuthorTool import AuthorQuery
 
 
 async def enrich_works_with_institutions(

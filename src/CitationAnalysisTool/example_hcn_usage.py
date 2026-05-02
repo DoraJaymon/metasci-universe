@@ -12,11 +12,11 @@ from pathlib import Path
 _project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(_project_root))
 
-from src.CitationAnalysisTool import (
+from CitationAnalysisTool import (
     HistoricalCitationNetwork,
     analyze_historical_citations
 )
-from src.DataExtractorTool.works_extractor import WorksExtractor
+from DataExtractorTool.works_extractor import WorksExtractor
 
 
 async def example1_basic_usage():

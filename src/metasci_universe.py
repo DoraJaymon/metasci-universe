@@ -13,13 +13,6 @@ __version__ = "0.1.0"
 from DataExtractorTool import WorksExtractor
 from SearchTool import FindWork
 from AuthorTool import AuthorQuery, query_authors
-from CitationAnalysisTool import (
-    basic_bibliometric_analysis,
-    RPYS,
-    rpys_analysis,
-    HistoricalCitationNetwork,
-    analyze_historical_citations
-)
 
 __all__ = [
     # 版本
@@ -34,16 +27,31 @@ __all__ = [
     # 作者工具
     "AuthorQuery",
     "query_authors",
-
-    # 引文分析
-    "basic_bibliometric_analysis",
-    "RPYS",
-    "rpys_analysis",
-    "HistoricalCitationNetwork",
-    "analyze_historical_citations",
 ]
 
 # 可选工具 - 需要 pip install metasci-universe[all]
+try:
+    from CitationAnalysisTool import (
+        basic_bibliometric_analysis,
+        RPYS,
+        rpys_analysis,
+        HistoricalCitationNetwork,
+        analyze_historical_citations,
+    )
+    __all__.extend([
+        "basic_bibliometric_analysis",
+        "RPYS",
+        "rpys_analysis",
+        "HistoricalCitationNetwork",
+        "analyze_historical_citations",
+    ])
+except ImportError:
+    basic_bibliometric_analysis = None
+    RPYS = None
+    rpys_analysis = None
+    HistoricalCitationNetwork = None
+    analyze_historical_citations = None
+
 try:
     from MacroAnalysisTool import MacroAnalyzer
     __all__.append("MacroAnalyzer")

@@ -52,7 +52,7 @@ except ImportError:
     pass
 
 # 导入内部依赖函数
-from src.AuthorTool._internal import (
+from ._internal import (
     get_author_bio,
     get_authors_summary,
     _safe_api_call,
