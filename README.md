@@ -49,10 +49,10 @@ pip install -e /home/dell/Desktop/OAAgent/SciSciTool/MetaSciToolUniverse
 
 ```bash
 # 直接从 Git 安装（发布到 Git 后）
-pip install git+https://github.com/yourusername/metasci-universe.git
+pip install git+https://github.com/DoraJaymon/metasci-universe.git
 
 # 或指定分支
-pip install git+https://github.com/yourusername/metasci-universe.git@main
+pip install git+https://github.com/DoraJaymon/metasci-universe.git@main
 ```
 
 ## 快速开始

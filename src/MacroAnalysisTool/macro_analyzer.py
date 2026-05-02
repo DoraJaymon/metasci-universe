@@ -7,6 +7,7 @@ MacroAnalyzer - 宏观分析工具
 from typing import List, Dict, Optional, Tuple
 from collections import Counter, defaultdict
 from pathlib import Path
+import os
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
@@ -24,13 +25,29 @@ if str(_project_root) not in sys.path:
 try:
     from config.db_config import DB_CONFIG
 except ImportError:
-    # 如果无法导入，使用默认配置
-    DB_CONFIG = {
-        'host': '192.168.168.31',
-        'port': 5432,
-        'database': 'openalex_v2',
-        'user': 'widi_whu_read',
-        'password': '135#whuPOI'
+    DB_CONFIG = None
+
+
+def _db_config_from_env() -> Optional[Dict]:
+    """Build DB config from environment variables when available."""
+    dsn = os.getenv("METASCI_DB_DSN") or os.getenv("DEEPALEX_DB_DSN") or os.getenv("DATABASE_URL")
+    if dsn:
+        return {"dsn": dsn}
+
+    host = os.getenv("METASCI_DB_HOST") or os.getenv("DEEPALEX_DB_HOST")
+    database = os.getenv("METASCI_DB_NAME") or os.getenv("DEEPALEX_DB_NAME")
+    user = os.getenv("METASCI_DB_USER") or os.getenv("DEEPALEX_DB_USER")
+    password = os.getenv("METASCI_DB_PASSWORD") or os.getenv("DEEPALEX_DB_PASSWORD")
+
+    if not all([host, database, user, password]):
+        return None
+
+    return {
+        "host": host,
+        "port": int(os.getenv("METASCI_DB_PORT") or os.getenv("DEEPALEX_DB_PORT") or "5432"),
+        "database": database,
+        "user": user,
+        "password": password,
     }
 
 
@@ -66,8 +83,8 @@ class MacroAnalyzer:
         self.country_year_counts = {}  # {year: {country: count}}
         self.institution_year_counts = {}  # {year: {institution: count}}
 
-        # 数据库配置：优先使用传入的配置，否则使用全局 DB_CONFIG
-        self.db_config = db_config or DB_CONFIG
+        # 数据库配置：传入参数 > 环境变量 > config/db_config.py。
+        self.db_config = db_config or _db_config_from_env() or DB_CONFIG
 
     def load_data(self, works: List[Dict], enrich_institutions: bool = False) -> 'MacroAnalyzer':
         """
